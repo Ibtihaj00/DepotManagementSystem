@@ -1,5 +1,6 @@
 package model;
 
+
 public class Customer {
     private int seqNo;
     private String name;
